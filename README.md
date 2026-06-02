@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Music App
 
 A simple Python-based music playback application built with **pygame**.  
@@ -19,3 +20,6 @@ This project demonstrates how to initialize the mixer, load audio files, and pla
 Install dependencies:
 ```bash
 pip install pygame
+=======
+# music-app
+>>>>>>> 60ffca115b10efff24927ab3a8ce1511124391e9
